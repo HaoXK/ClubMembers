@@ -11,7 +11,7 @@ public class Main
 
       MemberInfo[] roster = {
         new MemberInfo("SMITH, JANE", 2019, false),
-        new MemberInfo("FOX, SYTEVE", 2018, true),
+        new MemberInfo("FOX, STEVE", 2018, true),
         new MemberInfo("XIN, MICHAEL", 2017, false),
         new MemberInfo("GARCIA, MARIA", 2020, true),
       };
